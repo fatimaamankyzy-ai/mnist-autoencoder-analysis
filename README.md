@@ -1,5 +1,4 @@
-# mnist-autoencoder-analysis
-Deep learning project comparing fully-connected, convolutional and variational autoencoders for MNIST feature extraction, reconstruction and latent space analysis.
+
 # Autoencoders on MNIST: Feature Extraction & Latent Space Analysis
 
 Deep learning project exploring unsupervised feature learning using Fully-Connected, Convolutional, and Variational Autoencoders on the MNIST handwritten digit dataset.
