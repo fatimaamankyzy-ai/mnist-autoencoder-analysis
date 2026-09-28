@@ -149,16 +149,6 @@ The **Convolutional Autoencoder produced the cleanest reconstructed images**, sh
 
 **Python · PyTorch · NumPy · Matplotlib · Scikit-learn · PCA · t-SNE · Jupyter Notebook · Google Colab**
 
-## Repository Structure
-
-```text
-autoencoder-mnist/
-│
-├── README.md
-├── autoencoder_mnist.ipynb
-├── report.pdf
-└── requirements.txt
-```
 
 ## Author
 
